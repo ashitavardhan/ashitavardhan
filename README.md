@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashita Vardhan
 - 👀 I’m interested in web development and UI/UX design
 - 🔭 I'm currently working on frontend web-development projects
-- 🦄 Fun fact: I am trained in Kathak 🤓
+- 🦄 Fun fact: I am trained in Kathak and love to read 🤓
 - 🌟 Open to New Opportunities and Collaborations
 
 <!---
