@@ -7,7 +7,9 @@ I’m a passionate frontend developer and UX design enthusiast exploring the tec
 - **Fun Fact**: I'm a trained Kathak dancer!
 
 ### 🤝 Let’s Connect!
-If you’re into tech, design, or have interesting project ideas, let’s connect!
+If you’re into tech, design, or have interesting project ideas, let’s connect!<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashita-vardhan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ashita_vardhan)
 
 
 # 💻 Tech Stack:
